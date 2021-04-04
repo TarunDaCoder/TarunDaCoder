@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, I'm Tarun aka TarunDaCoder, nice to meet you :) 👋
 
-<!--
-**TarunDaCoder/TarunDaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--
+Hey, I'm Tarun, nice to meet you. Thanks for checking out my profile :)
+- 🔭 Currently working on a discord bot called Inspirer
+- 🌱 Currently learning HTML, CSS, JavaScript, Python and C++
+- 👯‍ Currently looking to collaborate on websites or discord bots
 
-Here are some ideas to get you started:
+### How to reach out to me
+- You can feel free to friend or dm me on Discord or join my [discord server]
+- Feel free to chat with me on my [scratch profile]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[![Sparkline](https://stars.medv.io/TarunDaCoder/TarunDaCoder.svg)](https://stars.medv.io/TarunDaCoder/TarunDaCoder)
 -->
