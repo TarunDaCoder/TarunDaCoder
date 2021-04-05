@@ -11,5 +11,5 @@ Hey, I'm Tarun, nice to meet you. Thanks for checking out my profile :)
 - Feel free to chat with me on my [scratch profile]
 
 
-[![Sparkline](https://stars.medv.io/TarunDaCoder/TarunDaCoder.svg)](https://stars.medv.io/TarunDaCoder/TarunDaCoder)
+**[![Sparkline](https://stars.medv.io/TarunDaCoder/TarunDaCoder.svg)](https://stars.medv.io/TarunDaCoder/TarunDaCoder)
 -->
