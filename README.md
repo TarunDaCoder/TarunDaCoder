@@ -10,6 +10,6 @@ Hey, I'm Tarun, nice to meet you. Thanks for checking out my profile :)
 - You can feel free to friend or dm me on Discord or join my [discord server](https://discord.gg/k6X2rDwk)
 - Feel free to chat with me on my [scratch profile](https://scratch.mit.edu/users/tarunsnair)
 
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunDaCoder&show_icons=true&theme=highcontrast&bg_color=DEG,red,purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunDaCoder&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunDaCoder&show_icons=true&theme=highcontrast&bg_color=DEG,red,purple)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunDaCoder&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
