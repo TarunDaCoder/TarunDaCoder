@@ -7,7 +7,7 @@ Hey, I'm Tarun, nice to meet you. Thanks for checking out my profile :)
 - 👯‍ Currently looking to collaborate on websites or discord bots
 
 ### How to reach out to me
-- You can feel free to friend or dm(`TαɾυɳDαCσԃɾ#5804`) me on Discord
+- You can feel free to friend or dm(`TarunDaCoder#5804`) me on Discord
 - Feel free to chat with me on my [scratch profile](https://scratch.mit.edu/users/tarunsnair)
 - You can check out my [gitlab](https://gitlab.com/TarunDaCoder) too
 
